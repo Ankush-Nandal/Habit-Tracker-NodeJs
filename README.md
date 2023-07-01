@@ -1,7 +1,13 @@
 # Habit Tracker App
+## Deployed Link
+https://habit-tracker-nodejs-ankush-nandal.onrender.com
+
 > A habit tracking app that will help you to create and maintain an awesome daily and weekly routine, which is one of the most powerful tools for achieving your goals and sending your life into an upwards spiral.
 
-![Screenshot (283)](https://user-images.githubusercontent.com/49118089/88487258-13f92200-cfa1-11ea-8ea0-4528517900e1.png)
+![Screenshot 2023-07-01 083034](https://github.com/Ankush-Nandal/Habit-Tracker-NodeJs/assets/95566773/31168b0b-aff0-417c-b28c-ef23fd641e27)
+
+![Screenshot 2023-07-01 083103](https://github.com/Ankush-Nandal/Habit-Tracker-NodeJs/assets/95566773/64ae6790-1d38-4757-85a1-c704c04dfff2)
+![Screenshot 2023-07-01 084908](https://github.com/Ankush-Nandal/Habit-Tracker-NodeJs/assets/95566773/8716c176-1d63-4e0f-9aba-5585ffaebbaf)
 
 ## Technologies Used
 1.  NodeJS
@@ -19,11 +25,11 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/rahulsups/habit-tracker.git`
+`https://github.com/Ankush-Nandal/Habit-Tracker-NodeJs`
 
 ##### Into the project directory
 
-`cd habit-tracker`
+`cd Habit-Tracker-NodeJs`
 
 ##### Installing NPM dependencies
 
@@ -34,6 +40,9 @@
 `npm start`
 
 #### The Server should now be running at http://localhost:3000/
+
+## Deployed Link
+https://habit-tracker-nodejs-ankush-nandal.onrender.com
 
 ## Folder Structure
 
